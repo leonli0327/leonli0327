@@ -19,6 +19,48 @@
   <a href="https://github.com/leonli0327">GitHub</a> · <a href="https://www.zhihu.com/people/yang-zi-75-80-34">知乎</a> · <a href="https://space.bilibili.com/1442881658">Bilibili</a> · <a href="https://stargodleon.top">Website</a> · <a href="mailto:leonli0327@qq.com">Email</a> · WeChat: leonli0327
 </p>
 
+<details>
+<summary><b>🌐 中文版</b>（点击展开 / 收起）</summary>
+
+### 👋 关于我
+
+我专注于构建**能感知、规划并在物理世界中行动的具身智能体**——从仿真到真机部署。
+
+- 🎓 武汉大学计算机学院 · 机器人技术（0863S1）硕士 · LASM 实验室 —— 导师：刘胜院士 & 李淼教授；入学综合排名第一
+- 🤖 在 **5+ 种异构机器人本体**上完成部署与训练：宇树 G1 · 智元 G2 · 星海图 R1 Pro · MOZ1 · 远游 2 双臂（+ 因时灵巧手）
+- 🛠️ 熟练使用 **Pi0.5 · ACT++ · IsaacLab · ROS 2 · LeRobot · LoRA · Sim2Real**
+- 🌱 江苏大学软件工程学士（菁英学院）；江苏大学天文社团创始人
+
+### 🏆 荣誉
+
+- 🏆 **2026 RoboCup 机器人世界杯冠军**（韩国仁川 · 双足人形机器人足球）—— WHUAI-Invic 决赛 **6:3** 力克德国汉堡大学；**45 国 364 支队伍**；武汉大学首次参赛即夺冠。负责宇树 G1 运动控制算法奠基（IsaacLab + PPO，1.0 m/s 稳定行走）。
+- 🥇 **2026 世界人形机器人运动会金牌**（北京 · 武大智元联合队）—— 灵巧手专项赛粉末称量：全程自主，**27 秒**完成 20g 称量（误差 ≤0.5g），**零扣分**，预赛决赛双第一。
+
+### 🔭 开源项目
+
+- **RLGym2D** —— 基于 PyMunk 物理引擎与 Gymnasium 标准接口的多任务 2D 仿真强化学习训练平台，集成 Stable-Baselines3（PPO），四级难度课程体系，纯 CPU 训练（普通笔记本 2–3 小时跑完整 RL 流程），中英双语文档。
+- **PILOT-OS** —— 记忆增强的具身 VLM Agent 开源框架（LangGraph · RAG · Reflexion · MCP）：LangGraph 编排 5 子智能体状态机，三层记忆 RAG 检索、Reflexion 反思、MCP 工具接入，347 项测试全绿。*代码即将开源。*
+
+### 📄 论文
+
+- **PILOT: Planning with Integrated Layered Orchestration for Task-completion in Embodied VLA** —— *ICRA 2027*，第一作者（投稿中）—— 面向多模态具身 Agent 的事件驱动统一规划层与分层任务完成验证架构，华为 Galaxea R1 Pro 真机项目成果。
+- **Adaptive Density Subgraph Clustering** —— *IEEE 计算社会系统汇刊*（Vol.11 No.4，2024），第四作者 —— 基于密度可达子图结构的自适应聚类，NMI 较 DPC 提升 10%–20%。
+
+### 🛠️ 技术栈
+
+- **具身智能 / VLA**：Pi0.5 · ACT++ · VLA · 行为克隆 · LoRA · Sim2Real
+- **Agent 系统**：事件驱动状态机 · 多智能体协同 · VLM · ReAct/CoT · 函数调用 · 提示工程 · RAG · Reflexion · LangGraph · MCP · TAMP · Harness Engineering
+- **强化学习 / 模仿学习**：PPO · GAE · 课程学习 · Stable-Baselines3 · 模仿学习
+- **仿真平台**：IsaacLab · MuJoCo · PyMunk · Gymnasium
+- **机器人 / 硬件**：Galaxea R1 Pro · 宇树 G1/G1D · 远游 2 双臂 · MOZ1 · 智元 G2 · 因时灵巧手 · Jetson Orin NX / Thor · Quest 3S · Apple Vision Pro
+- **工程 / 部署**：Python · C++ · ROS 2 · LeRobot · PyTorch · DeepSpeed · WebSocket · WebRTC · Docker · uv/venv · Git + Git LFS · WandB
+
+### 📬 联系方式
+
+GitHub · 知乎 · Bilibili · [个人主页](https://stargodleon.top) · 邮箱 leonli0327@qq.com · 微信 leonli0327
+
+</details>
+
 ---
 
 ### 👋 About
