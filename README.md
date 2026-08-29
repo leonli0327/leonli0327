@@ -36,11 +36,6 @@ I build **embodied agents that perceive, plan and act in the physical world** â€
 ### âš¡ GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=leonli0327&theme=default&hide_border=true&date_format=Y-m-d#gh-light-mode-only" alt="GitHub streak stats (light)" />
-  <img src="https://streak-stats.demolab.com/?user=leonli0327&theme=github-dark&hide_border=true&date_format=Y-m-d#gh-dark-mode-only" alt="GitHub streak stats (dark)" />
-</p>
-
-<p align="center">
   <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/followers/leonli0327?style=flat-square&label=Followers&color=57606A" alt="Followers" /></a>
   <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/repos/leonli0327?style=flat-square&label=Public%20Repos&color=57606A" alt="Public repos" /></a>
 </p>
