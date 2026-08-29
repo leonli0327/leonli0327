@@ -36,17 +36,13 @@ I build **embodied agents that perceive, plan and act in the physical world** �
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/leonli0327">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonli0327&show_icons=true&theme=default&hide_title=true&hide_border=true&rank_icon=github#gh-light-mode-only" alt="Leon Li's GitHub stats (light)" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonli0327&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&rank_icon=github#gh-dark-mode-only" alt="Leon Li's GitHub stats (dark)" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=leonli0327&theme=default&hide_border=true&date_format=Y-m-d#gh-light-mode-only" alt="GitHub streak stats (light)" />
+  <img src="https://streak-stats.demolab.com/?user=leonli0327&theme=github-dark&hide_border=true&date_format=Y-m-d#gh-dark-mode-only" alt="GitHub streak stats (dark)" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/leonli0327">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonli0327&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6#gh-light-mode-only" alt="Top languages (light)" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonli0327&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6#gh-dark-mode-only" alt="Top languages (dark)" />
-  </a>
+  <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/followers/leonli0327?style=flat-square&label=Followers&color=57606A" alt="Followers" /></a>
+  <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/repos/leonli0327?style=flat-square&label=Public%20Repos&color=57606A" alt="Public repos" /></a>
 </p>
 
 <p align="center">
@@ -66,12 +62,12 @@ I build **embodied agents that perceive, plan and act in the physical world** �
 
 ### 🔭 Open Source
 
-<p align="center">
-  <a href="https://github.com/leonli0327/RLGym2D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonli0327&repo=RLGym2D&theme=default&hide_border=true#gh-light-mode-only" alt="RLGym2D (light)" /></a>
-  <a href="https://github.com/leonli0327/RLGym2D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonli0327&repo=RLGym2D&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="RLGym2D (dark)" /></a>
-</p>
-
 - **RLGym2D** — a multi-task 2D simulation RL training platform (PyMunk + Gymnasium + Stable-Baselines3 PPO). CPU-only: a laptop finishes a full RL pipeline in 2–3 h. Bilingual docs.
+
+  <a href="https://github.com/leonli0327/RLGym2D"><img src="https://img.shields.io/github/stars/leonli0327/RLGym2D?style=flat-square&label=Stars&color=57606A" alt="RLGym2D stars" /></a>
+  <a href="https://github.com/leonli0327/RLGym2D"><img src="https://img.shields.io/github/languages/top/leonli0327/RLGym2D?style=flat-square&label=Language&color=57606A" alt="RLGym2D language" /></a>
+  <a href="https://github.com/leonli0327/RLGym2D"><img src="https://img.shields.io/github/license/leonli0327/RLGym2D?style=flat-square&label=License&color=57606A" alt="RLGym2D license" /></a>
+
 - **PILOT-OS** — a memory-augmented embodied VLM Agent framework (LangGraph · RAG · Reflexion · MCP): 5-sub-agent state machine, three-tier memory, 347 tests all green. *Code coming soon.*
 
 ### 📄 Publications
