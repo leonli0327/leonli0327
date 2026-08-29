@@ -49,18 +49,13 @@ I build **embodied agents that perceive, plan and act in the physical world** �
   </a>
 </p>
 
-<!--
-  🐍 Contribution snake (optional, disabled until the workflow has run once).
-  To enable:
-    1. Create .github/workflows/snake.yml (exact content in DEPLOY.md) and push it.
-    2. Run the "Generate Snake" workflow once from the Actions tab (it writes the `output` branch).
-    3. Delete this comment block. Done — the snake updates daily via cron.
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonli0327/leonli0327/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonli0327/leonli0327/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/leonli0327/leonli0327/output/github-contribution-grid-snake.svg" />
   </picture>
--->
+</p>
 
 ---
 
