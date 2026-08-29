@@ -37,7 +37,7 @@ I build **embodied agents that perceive, plan and act in the physical world** â€
 
 <p align="center">
   <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/followers/leonli0327?style=flat-square&label=Followers&color=57606A" alt="Followers" /></a>
-  <a href="https://github.com/leonli0327"><img src="https://img.shields.io/github/repos/leonli0327?style=flat-square&label=Public%20Repos&color=57606A" alt="Public repos" /></a>
+  <a href="https://github.com/leonli0327"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleonli0327&query=public_repos&label=Public%20Repos&color=57606A&style=flat-square" alt="Public repos" /></a>
 </p>
 
 <p align="center">
