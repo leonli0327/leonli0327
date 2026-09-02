@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leonli0327">GitHub</a> · <a href="https://www.zhihu.com/people/yang-zi-75-80-34">知乎</a> · <a href="https://space.bilibili.com/1442881658">Bilibili</a> · <a href="https://stargodleon.top">Website</a> · <a href="mailto:leonli0327@qq.com">Email</a> · WeChat: leonli0327
+  <a href="https://github.com/leonli0327">GitHub</a> · <a href="https://www.zhihu.com/people/yang-zi-75-80-34">知乎</a> · <a href="https://space.bilibili.com/1442881658">Bilibili</a> · <a href="mailto:leonli0327@qq.com">Email</a> · WeChat: leonli0327
 </p>
 
 <details>
@@ -57,7 +57,7 @@
 
 ### 📬 联系方式
 
-GitHub · 知乎 · Bilibili · [个人主页](https://stargodleon.top) · 邮箱 leonli0327@qq.com · 微信 leonli0327
+GitHub · 知乎 · Bilibili · 邮箱 leonli0327@qq.com · 微信 leonli0327
 
 </details>
 
