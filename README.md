@@ -43,7 +43,7 @@
 
 ### 📄 论文
 
-- **PILOT: Planning with Integrated Layered Orchestration for Task-completion in Embodied VLA** —— *ICRA 2027*，第一作者（投稿中）—— 面向多模态具身 Agent 的事件驱动统一规划层与分层任务完成验证架构，华为 Galaxea R1 Pro 真机项目成果。
+- **PILOT: Planning with Integrated Layered Orchestration for Task-completion in Embodied VLA** —— *ICRA 2027*，第一作者（在投）—— 面向多模态具身 Agent 的事件驱动统一规划层与分层任务完成验证架构，华为 Galaxea R1 Pro 真机项目成果。
 - **Adaptive Density Subgraph Clustering** —— *IEEE 计算社会系统汇刊*（Vol.11 No.4，2024），第四作者 —— 基于密度可达子图结构的自适应聚类，NMI 较 DPC 提升 10%–20%。
 
 ### 🛠️ 技术栈
